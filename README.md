@@ -36,3 +36,6 @@ https://www.mathworks.com/support/learn-with-matlab-tutorials.html
 
 MathWorks Support for Student Competitions
 https://www.mathworks.com/academia/student-competitions.html
+
+Modeling and Simulation Made Easy with Simulink
+https://www.mathworks.com/videos/modelling-and-simulation-made-easy-with-simulink-106526.html
