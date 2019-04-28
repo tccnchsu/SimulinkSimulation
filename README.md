@@ -39,3 +39,7 @@ https://www.mathworks.com/academia/student-competitions.html
 
 Modeling and Simulation Made Easy with Simulink
 https://www.mathworks.com/videos/modelling-and-simulation-made-easy-with-simulink-106526.html
+
+Introduction to Model Based Design Modeling and Simulation with Simulink
+https://youtu.be/XrPxU2RAyVI
+https://www.mathworks.com/videos/modelling-and-simulation-made-easy-with-simulink-106526.html
