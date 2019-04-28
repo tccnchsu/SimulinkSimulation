@@ -9,3 +9,6 @@ https://youtu.be/a_DW7xznPco
 
 Getting Started with Simulink, Part 3: How to View Simulation Results
 https://youtu.be/yTVX-EVGyog
+
+Getting Started with Simulink, Part 4: How to Tune a PID Controller
+https://youtu.be/_CjirdeKxUY
