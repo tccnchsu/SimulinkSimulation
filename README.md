@@ -33,3 +33,6 @@ https://youtu.be/ajVN2Pd-p20
 
 Start learning MATLAB and Simulink with free tutorials
 https://www.mathworks.com/support/learn-with-matlab-tutorials.html
+
+MathWorks Support for Student Competitions
+https://www.mathworks.com/academia/student-competitions.html
